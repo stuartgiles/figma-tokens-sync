@@ -21,16 +21,27 @@
       ]
     },
     {
-      "name": "Design Tokens / Colors",
-      "path": "assets/styles/variables/colors.json",
-      "filter":{
-        "types": ["color"]
-      },
-      "parsers": [
-        {
-          "name": "to-style-dictionary"
+  "name": "Import tokens",
+  "path": "src/common/theme/theme.js",
+  "filter": {
+    "types": [
+      "color"
+    ]
+  },
+  "parsers": [
+    {
+      "name": "to-react-native",
+      "options": {
+        "colorFormat": "hex",
+        "assetsFolderPath": "src/common/assets",
+        "objectName": "myTheme",
+        "prettierConfig": {
+          "tabWidth": 4,
+          "singleQuote": true
         }
-      ]
+      }
     }
+  ]
+}
   ]
 }
