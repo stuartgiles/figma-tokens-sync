@@ -1,5 +1,5 @@
 {
-  "repository": "stuartgiles/figma-tokens-sync",
+  "repository": "@stuartgiles/figma-tokens-sync",
   "head": "specify",
   "rules": [
     {
