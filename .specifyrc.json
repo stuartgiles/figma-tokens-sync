@@ -28,12 +28,6 @@
       },
       "parsers": [
         {
-          "name": "sort-by",
-          "options": {
-            "keys": ["name"]
-          }
-        },
-        {
           "name": "to-style-dictionary"
         }
       ]
