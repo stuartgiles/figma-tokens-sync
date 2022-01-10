@@ -19,6 +19,24 @@
           "name": "to-css-custom-properties"
         }
       ]
+    },
+    {
+      "name": "Design Tokens / Colors",
+      "path": "assets/styles/variables/colors.json",
+      "filter":{
+        "types": ["color"]
+      },
+      "parsers": [
+        {
+          "name": "sort-by",
+          "options": {
+            "keys": ["name"]
+          }
+        },
+        {
+          "name": "to-style-dictionary"
+        }
+      ]
     }
   ]
 }
