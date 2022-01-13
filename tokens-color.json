@@ -344,7 +344,7 @@
     }
   },
   "Light": {
-    "text": {
+    "Text": {
       "brand": {
         "value": "{Brand.PurpleDark $purpleDark}",
         "type": "color"
@@ -382,7 +382,7 @@
     }
   },
   "Dark": {
-    "text": {
+    "Text": {
       "brand": {
         "value": "{Brand.GreenAccessible $greenAccessible}",
         "type": "color"
