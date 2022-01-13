@@ -2,7 +2,7 @@
   "global": {
     "Text": {
       "Brand $textBrand ($purpleTelus)": {
-        "value": "#30C1FF",
+        "value": "#4B286D",
         "type": "color"
       },
       "Text Dark $textDark ($greyThunder)": {
@@ -166,7 +166,7 @@
         "type": "color"
       },
       "PurpleTelus $purpleTelus": {
-        "value": "#4b286d",
+        "value": "#30C1FF",
         "type": "color"
       },
       "PurpleEminence $purpleEminence": {
