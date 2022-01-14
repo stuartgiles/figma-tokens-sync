@@ -27,7 +27,7 @@ const myTheme = {
         brandGreenTelusGreenTelus: '#66cc00',
         brandGreenTuskGreenTusk: '#e3f6d1',
         brandGreenYellowGreenYellow: '#bfe797',
-        brandPurpleDarkPurpleDark: '#3f2a54',
+        brandPurpleDarkPurpleDark: '#30c1ff',
         brandPurpleDelugePurpleDeluge: '#7c53a5',
         brandPurpleEminencePurpleEminence: '#613889',
         brandPurpleTelusPurpleTelus: '#4b286d',
