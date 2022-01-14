@@ -161,7 +161,7 @@
         "value": "#ffffff",
         "type": "color"
       },
-      "PurpleDark $purpleDark": {
+      "BlueDark $blueDark": {
         "value": "#30C1FF",
         "type": "color"
       },
@@ -346,7 +346,7 @@
   "Light": {
     "Text": {
       "brand": {
-        "value": "{Brand.PurpleDark $purpleDark}",
+        "value": "{Brand.BlueDark $blueDark}",
         "type": "color"
       },
       "dark": {
@@ -404,7 +404,7 @@
         "type": "color"
       },
       "Action": {
-        "value": "{Brand.PurpleDark $purpleDark}",
+        "value": "{Brand.BlueDark $blueDark}",
         "type": "color"
       },
       "Danger": {
