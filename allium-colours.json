@@ -1,34 +1,6 @@
 {
   "global": {
     "Text": {
-      "Brand $textBrand ($purpleTelus)": {
-        "value": "#4b286d",
-        "type": "color"
-      },
-      "Text Dark $textDark ($greyThunder)": {
-        "value": "#2c2e30",
-        "type": "color"
-      },
-      "Text $textNeutral ($greyCharcoal)": {
-        "value": "#414547",
-        "type": "color"
-      },
-      "Text Light $textSubtle ($greyShuttle)": {
-        "value": "#676e73",
-        "type": "color"
-      },
-      "Inverse $textInverse ($white)": {
-        "value": "#ffffff",
-        "type": "color"
-      },
-      "Action $textAction ($greenAccessible)": {
-        "value": "#2b8000",
-        "type": "color"
-      },
-      "Danger $textDanger ($redDark)": {
-        "value": "#e12339",
-        "type": "color"
-      },
       "brand": {
         "value": "#30c1ff",
         "type": "color"
@@ -189,7 +161,7 @@
       }
     },
     "Brand": {
-      "White $white": {
+      "White": {
         "value": "#ffffff",
         "type": "color"
       },
@@ -197,7 +169,7 @@
         "value": "#3f2a54",
         "type": "color"
       },
-      "PurpleTelus $purpleTelus": {
+      "PurpleTelus": {
         "value": "#4b286d",
         "type": "color"
       },
@@ -217,7 +189,7 @@
         "value": "#1f5c09",
         "type": "color"
       },
-      "GreenAccessible $greenAccessible": {
+      "Accessible": {
         "value": "#2b8000",
         "type": "color"
       },
@@ -236,14 +208,10 @@
       "GreenPanache $greenPanache": {
         "value": "#f4f9f2",
         "type": "color"
-      },
-      "BlueDark $blueDark": {
-        "value": "#30c1ff",
-        "type": "color"
       }
     },
     "Grey": {
-      "Thunder $greyThunder": {
+      "Thunder": {
         "value": "#2c2e30",
         "type": "color"
       },
@@ -375,6 +343,58 @@
       },
       "Dark 5% $dark5": {
         "value": "#0000000d",
+        "type": "color"
+      }
+    }
+  },
+  "Light": {
+    "TestText": {
+      "brand": {
+        "value": "{Brand.PurpleTelus}",
+        "type": "color"
+      },
+      "default": {
+        "value": "{Grey.Thunder}",
+        "type": "color"
+      },
+      "inverse": {
+        "value": "{Brand.White}",
+        "type": "color"
+      }
+    },
+    "Testbackground": {
+      "default": {
+        "value": "{Brand.White}",
+        "type": "color"
+      },
+      "action": {
+        "value": "{Brand.Accessible}",
+        "type": "color"
+      }
+    }
+  },
+  "Dark": {
+    "TestText": {
+      "brand": {
+        "value": "{Brand.Accessible}",
+        "type": "color"
+      },
+      "default": {
+        "value": "{Brand.White}",
+        "type": "color"
+      },
+      "inverse": {
+        "value": "{Grey.Thunder}",
+        "type": "color"
+      }
+    },
+    "Testbackground": {
+      "default": {
+        "value": "{Grey.Thunder}",
+        "type": "color"
+      },
+      "action": {
+        "value": "{Brand.White}",
         "type": "color"
       }
     }
