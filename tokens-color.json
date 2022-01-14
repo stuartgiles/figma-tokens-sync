@@ -1,35 +1,5 @@
 {
   "global": {
-    "Text": {
-      "Brand $textBrand ($purpleTelus)": {
-        "value": "#4B286D",
-        "type": "color"
-      },
-      "Text Dark $textDark ($greyThunder)": {
-        "value": "#2c2e30",
-        "type": "color"
-      },
-      "Text $textNeutral ($greyCharcoal)": {
-        "value": "#414547",
-        "type": "color"
-      },
-      "Text Light $textSubtle ($greyShuttle)": {
-        "value": "#676e73",
-        "type": "color"
-      },
-      "Inverse $textInverse ($white)": {
-        "value": "#ffffff",
-        "type": "color"
-      },
-      "Action $textAction ($greenAccessible)": {
-        "value": "#2b8000",
-        "type": "color"
-      },
-      "Danger $textDanger ($redDark)": {
-        "value": "#e12339",
-        "type": "color"
-      }
-    },
     "Background": {
       "Lightest $bgLightest ($white)": {
         "value": "#ffffff",
