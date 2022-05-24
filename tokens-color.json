@@ -295,6 +295,56 @@
         "value": "#0000000d",
         "type": "color"
       }
+    },
+    "Brand": {
+      "White $white": {
+        "value": "#ffffff",
+        "type": "color"
+      },
+      "PurpleDark $purpleDark": {
+        "value": "#3f2a54",
+        "type": "color"
+      },
+      "PurpleTelus $purpleTelus": {
+        "value": "#4b286d",
+        "type": "color"
+      },
+      "PurpleEminence $purpleEminence": {
+        "value": "#613889",
+        "type": "color"
+      },
+      "PurpleDeluge $purpleDeluge": {
+        "value": "#7c53a5",
+        "type": "color"
+      },
+      "GreenDarkFern $greenDarkFern": {
+        "value": "#163e06",
+        "type": "color"
+      },
+      "GreenSanFelix $greenSanFelix": {
+        "value": "#1f5c09",
+        "type": "color"
+      },
+      "GreenAccessible $greenAccessible": {
+        "value": "#2b8000",
+        "type": "color"
+      },
+      "GreenTelus $greenTelus": {
+        "value": "#66cc00",
+        "type": "color"
+      },
+      "GreenYellow $greenYellow": {
+        "value": "#bfe797",
+        "type": "color"
+      },
+      "GreenTusk $greenTusk": {
+        "value": "#e3f6d1",
+        "type": "color"
+      },
+      "GreenPanache $greenPanache": {
+        "value": "#f4f9f2",
+        "type": "color"
+      }
     }
   },
   "$themes": []
