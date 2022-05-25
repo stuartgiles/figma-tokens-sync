@@ -189,32 +189,32 @@
   },
   "light": {
     "Text": {
-      "brand": {
-        "value": "#30c1ff",
+      "Brand": {
+        "value": "{Brand.PurpleTelus $purpleTelus}",
         "type": "color"
       },
-      "dark": {
-        "value": "#2c2e30",
+      "Dark": {
+        "value": "{Grey.Thunder}",
         "type": "color"
       },
       "Neutral": {
-        "value": "#414547",
+        "value": "{Grey.Charcoal $greyCharcoal}",
         "type": "color"
       },
       "Subtle": {
-        "value": "#676e73",
+        "value": "{Grey.Shuttle $greyShuttle}",
         "type": "color"
       },
       "Inverse": {
-        "value": "#ffffff",
+        "value": "{Brand.White $white}",
         "type": "color"
       },
       "Action": {
-        "value": "#2b8000",
+        "value": "{Brand.GreenAccessible $greenAccessible}",
         "type": "color"
       },
       "Danger": {
-        "value": "#e12339",
+        "value": "{Notification.Red $red}",
         "type": "color"
       }
     },
