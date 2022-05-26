@@ -185,6 +185,57 @@
         "value": "#0000000d",
         "type": "color"
       }
+    },
+    "size0": {
+      "value": "0",
+      "type": "sizing"
+    },
+    "size1": {
+      "value": "1",
+      "type": "sizing",
+      "description": "Limited usage"
+    },
+    "size2": {
+      "value": "2",
+      "type": "sizing"
+    },
+    "size3": {
+      "value": "3",
+      "type": "sizing",
+      "description": "Limited usage"
+    },
+    "size4": {
+      "value": "4",
+      "type": "sizing"
+    },
+    "size8": {
+      "value": "8",
+      "type": "sizing"
+    },
+    "size10": {
+      "value": "10",
+      "type": "sizing",
+      "description": "Limited usage"
+    },
+    "size12": {
+      "value": "12",
+      "type": "sizing"
+    },
+    "size16": {
+      "value": "16",
+      "type": "sizing"
+    },
+    "size20": {
+      "value": "20",
+      "type": "sizing"
+    },
+    "size24": {
+      "value": "24",
+      "type": "sizing"
+    },
+    "size32": {
+      "value": "32",
+      "type": "sizing"
     }
   },
   "light": {
@@ -349,5 +400,6 @@
       }
     }
   },
+  "compact": {},
   "$themes": []
 }
