@@ -193,7 +193,7 @@
         "value": "{Brand.PurpleTelus $purpleTelus}",
         "type": "color"
       },
-      "Dark": {
+      "Default": {
         "value": "{Grey.Thunder}",
         "type": "color"
       },
