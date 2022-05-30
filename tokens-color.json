@@ -1339,131 +1339,131 @@
     },
     "Background": {
       "Lightest $bgLightest ($white)": {
-        "value": "#ffffff",
+        "value": "{Brand.White $white}",
         "type": "color"
       },
       "Lighter $bgLighter ($greyAlabaster)": {
-        "value": "#fafafa",
+        "value": "{Grey.Alabaster $greyAlabaster}",
         "type": "color"
       },
       "Light $bgLight ($greyAthens)": {
-        "value": "#f4f4f7",
+        "value": "{Grey.Athens $greyAthens}",
         "type": "color"
       },
       "Dark $bgDark ($greyShuttle)": {
-        "value": "#676e73",
+        "value": "{Grey.Shuttle $greyShuttle}",
         "type": "color"
       },
       "Darker $bgDarker ($greyCharcoal)": {
-        "value": "#414547",
+        "value": "{Grey.Charcoal $greyCharcoal}",
         "type": "color"
       },
       "Darkest $bgDarkest ($greyThunder)": {
-        "value": "#2c2e30",
+        "value": "{Grey.Thunder}",
         "type": "color"
       },
       "Brand $bgBrand ($purpleTelus)": {
-        "value": "#4b286d",
+        "value": "{Brand.PurpleTelus $purpleTelus}",
         "type": "color"
       },
       "Modal $bgModal": {
-        "value": "#f4f4f7f7",
+        "value": "{Background.Light $bgLight ($greyAthens)}",
         "type": "color"
       },
       "Critical $bgCritical ($redDark)": {
-        "value": "#c12335",
+        "value": "{Notification.Dark Red $redDark}",
         "type": "color"
       },
       "Danger $bgDanger ($redLight)": {
-        "value": "#fff6f8",
+        "value": "{Notification.Light Red $redLight}",
         "type": "color"
       },
       "Warning $bgWarning ($amberLight)": {
-        "value": "#fff9ee",
+        "value": "{Notification.Light Amber $amberLight}",
         "type": "color"
       },
       "Success $bgSuccess ($greenPanache)": {
-        "value": "#f4f9f2",
+        "value": "{Brand.GreenPanache $greenPanache}",
         "type": "color"
       },
       "Offer $bgOffer": {
-        "value": "linear-gradient(34deg, #4b286d 0%, #e53293 100%)",
+        "value": "{Gradient.Purple Gradient $gradientPurple}",
         "type": "color"
       },
       "Social $bgSocial": {
-        "value": "linear-gradient(45deg, #4b286d 0%, #613889 100%)",
+        "value": "{Gradient.Brand Gradient $gradientBrand}",
         "type": "color"
       },
       "Lightest": {
-        "value": "#ffffff",
+        "value": "{Brand.White $white}",
         "type": "color"
       }
     },
     "Border": {
       "Dark $borderDark ($greyShuttle)": {
-        "value": "#676e73",
+        "value": "{Grey.Shuttle $greyShuttle}",
         "type": "color"
       },
       "Default $borderDefault ($greyCloud)": {
-        "value": "#b2b9bf",
+        "value": "{Grey.Cloud $greyCloud}",
         "type": "color"
       },
       "Light $borderLight ($greyMystic)": {
-        "value": "#e3e6e8",
+        "value": "{Grey.Mystic $greyMystic}",
         "type": "color"
       },
       "Inverse $borderInverse ($white)": {
-        "value": "#ffffff",
+        "value": "{Brand.White $white}",
         "type": "color"
       },
       "Brand $borderBrand ($purpleTelus)": {
-        "value": "#4b286d",
+        "value": "{Brand.PurpleTelus $purpleTelus}",
         "type": "color"
       },
       "Danger $borderDanger ($red)": {
-        "value": "#e12339",
+        "value": "{Notification.Red $red}",
         "type": "color"
       },
       "Warning $borderWarning ($amber)": {
-        "value": "#faca69",
+        "value": "{Notification.Amber $amber}",
         "type": "color"
       },
       "Success $borderSuccess ($greenAccessible)": {
-        "value": "#2b8000",
+        "value": "{Brand.GreenAccessible $greenAccessible}",
         "type": "color"
       },
       "Offer $borderOffer": {
-        "value": "linear-gradient(34deg, #4b286d 0%, #e53293 100%)",
+        "value": "{Gradient.Purple Gradient $gradientPurple}",
         "type": "color"
       }
     },
     "Icon": {
       "Brand $iconBrand ($purpleTelus)": {
-        "value": "#4b286d",
+        "value": "{Brand.PurpleTelus $purpleTelus}",
         "type": "color"
       },
       "Neutral $iconNeutral ($greyCharcoal)": {
-        "value": "#414547",
+        "value": "{Grey.Charcoal $greyCharcoal}",
         "type": "color"
       },
       "Subtle $iconSubtle ($greyShuttle)": {
-        "value": "#676e73",
+        "value": "{Grey.Shuttle $greyShuttle}",
         "type": "color"
       },
       "Danger $iconDanger ($redDark)": {
-        "value": "#c12335",
+        "value": "{Notification.Dark Red $redDark}",
         "type": "color"
       },
       "Warning $iconWarning ($amberDark)": {
-        "value": "#b4872c",
+        "value": "{Notification.Dark Amber $amberDark}",
         "type": "color"
       },
       "Success $iconSuccess ($greenAccessible)": {
-        "value": "#2b8000",
+        "value": "{Brand.GreenAccessible $greenAccessible}",
         "type": "color"
       },
       "Inverse $iconInverse ($white)": {
-        "value": "#ffffff",
+        "value": "{Brand.White $white}",
         "type": "color"
       }
     }
