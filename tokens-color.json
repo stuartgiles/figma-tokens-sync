@@ -186,56 +186,119 @@
         "type": "color"
       }
     },
-    "size0": {
-      "value": "0",
-      "type": "sizing"
-    },
-    "size1": {
-      "value": "1",
-      "type": "sizing",
-      "description": "Limited usage"
-    },
-    "size2": {
-      "value": "2",
-      "type": "sizing"
-    },
-    "size3": {
-      "value": "3",
-      "type": "sizing",
-      "description": "Limited usage"
-    },
-    "size4": {
-      "value": "4",
-      "type": "sizing"
-    },
-    "size8": {
-      "value": "8",
-      "type": "sizing"
-    },
-    "size10": {
-      "value": "10",
-      "type": "sizing",
-      "description": "Limited usage"
-    },
-    "size12": {
-      "value": "12",
-      "type": "sizing"
-    },
-    "size16": {
-      "value": "16",
-      "type": "sizing"
-    },
-    "size20": {
-      "value": "20",
-      "type": "sizing"
-    },
-    "size24": {
-      "value": "24",
-      "type": "sizing"
-    },
-    "size32": {
-      "value": "32",
-      "type": "sizing"
+    "sizes": {
+      "size0": {
+        "value": 0,
+        "type": "sizing"
+      },
+      "size1": {
+        "value": 1,
+        "type": "sizing",
+        "description": "For special gap sizes. This is not part of the allium spacing scale."
+      },
+      "size10": {
+        "value": 10,
+        "type": "sizing",
+        "description": "Specifically introduced to space the Checkbox glyph from its label"
+      },
+      "size12": {
+        "value": 12,
+        "type": "sizing"
+      },
+      "size120": {
+        "value": 120,
+        "type": "sizing"
+      },
+      "size144": {
+        "value": 144,
+        "type": "sizing",
+        "description": "24 x 6. Larger sizes for the widths/heights of blocks are based on multiples of 24."
+      },
+      "size16": {
+        "value": 16,
+        "type": "sizing"
+      },
+      "size192": {
+        "value": 192,
+        "type": "sizing",
+        "description": "24 x 8. Larger sizes for the widths/heights of blocks are based on multiples of 24."
+      },
+      "size2": {
+        "value": 2,
+        "type": "sizing",
+        "description": "Specifically introduced to space the Feedback from the Checkbox"
+      },
+      "size20": {
+        "value": 20,
+        "type": "sizing"
+      },
+      "size24": {
+        "value": 24,
+        "type": "sizing"
+      },
+      "size264": {
+        "value": 264,
+        "type": "sizing",
+        "description": "24 x 11. This is the widest token for widths where four columns with up to size24 spacing can be reliably accomodated at `xl` viewport. Larger sizes for the widths/heights of blocks are based on multiples of 24."
+      },
+      "size28": {
+        "value": 28,
+        "type": "sizing"
+      },
+      "size288": {
+        "value": 288,
+        "type": "sizing",
+        "description": "24 x 12. This matches 320 (the narrowest supported viewport) minus two 16px margins. Larger sizes for the widths/heights of blocks are based on multiples of 24)."
+      },
+      "size3": {
+        "value": 3,
+        "type": "sizing",
+        "description": "For special gap and size cases. This is not part of the allium sizing scale."
+      },
+      "size32": {
+        "value": 32,
+        "type": "sizing"
+      },
+      "size36": {
+        "value": 36,
+        "type": "sizing"
+      },
+      "size4": {
+        "value": 4,
+        "type": "sizing"
+      },
+      "size40": {
+        "value": 40,
+        "type": "sizing"
+      },
+      "size44": {
+        "value": 44,
+        "type": "sizing"
+      },
+      "size48": {
+        "value": 48,
+        "type": "sizing"
+      },
+      "size64": {
+        "value": 64,
+        "type": "sizing"
+      },
+      "size72": {
+        "value": 72,
+        "type": "sizing"
+      },
+      "size8": {
+        "value": 8,
+        "type": "sizing"
+      },
+      "size80": {
+        "value": 80,
+        "type": "sizing"
+      },
+      "size96": {
+        "value": 96,
+        "type": "sizing"
+      }
     },
     "fontFamilies": {
       "helvetica-neue": {
