@@ -1367,6 +1367,55 @@
         "value": "line-through",
         "type": "textDecoration"
       }
+    },
+    "none": {
+      "value": 0,
+      "type": "borderRadius"
+    },
+    "pill32": {
+      "value": 32,
+      "type": "borderRadius",
+      "description": "For 'pill' designs with circular sides, which become rounded rectangles of radius 32 if forced to have height greater than 64 (for example, if user's accessibility settings increase text size)"
+    },
+    "radius1": {
+      "value": 1,
+      "type": "borderRadius",
+      "description": "Use for Tooltip's arrow"
+    },
+    "radius12": {
+      "value": 12,
+      "type": "borderRadius",
+      "description": "Use for ProgressBar"
+    },
+    "radius4": {
+      "value": 4,
+      "type": "borderRadius"
+    },
+    "radius6": {
+      "value": 6,
+      "type": "borderRadius",
+      "description": "Use for Cards"
+    },
+    "radius8": {
+      "value": 8,
+      "type": "borderRadius",
+      "description": "Use for Tooltip"
+    },
+    "border-radius-round": {
+      "value": "999",
+      "type": "borderRadius"
+    },
+    "border-radius-lg": {
+      "value": "{pill32}",
+      "type": "borderRadius"
+    },
+    "border-radius-md": {
+      "value": "{radius4}",
+      "type": "borderRadius"
+    },
+    "border-radius-sm": {
+      "value": "{none}",
+      "type": "borderRadius"
     }
   },
   "light": {
@@ -1619,6 +1668,22 @@
         "value": "48",
         "type": "fontSizes"
       }
+    },
+    "border-radius-round": {
+      "value": "{radius8}",
+      "type": "borderRadius"
+    },
+    "border-radius-lg": {
+      "value": "{radius8}",
+      "type": "borderRadius"
+    },
+    "border-radius-md": {
+      "value": "{none}",
+      "type": "borderRadius"
+    },
+    "border-radius-sm": {
+      "value": "{none}",
+      "type": "borderRadius"
     }
   },
   "$themes": []
