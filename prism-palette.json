@@ -715,31 +715,31 @@
     },
     "lineHeights": {
       "0": {
-        "value": "64",
-        "type": "lineHeights"
-      },
-      "1": {
         "value": "48",
         "type": "lineHeights"
       },
-      "2": {
+      "1": {
         "value": "40",
         "type": "lineHeights"
       },
-      "3": {
+      "2": {
         "value": "32",
         "type": "lineHeights"
       },
-      "4": {
+      "3": {
         "value": "24",
         "type": "lineHeights"
       },
-      "5": {
+      "4": {
         "value": "20",
         "type": "lineHeights"
       },
-      "6": {
+      "5": {
         "value": "16",
+        "type": "lineHeights"
+      },
+      "6": {
+        "value": "14",
         "type": "lineHeights"
       }
     },
