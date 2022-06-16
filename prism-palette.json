@@ -648,6 +648,26 @@
         "value": "{greys.granite}",
         "type": "color"
       }
+    },
+    "padding-1": {
+      "value": "{size-1}",
+      "type": "spacing"
+    },
+    "padding-2": {
+      "value": "{size-2}",
+      "type": "spacing"
+    },
+    "padding-3": {
+      "value": "{size-3}",
+      "type": "spacing"
+    },
+    "padding-4": {
+      "value": "{size-4}",
+      "type": "spacing"
+    },
+    "padding-5": {
+      "value": "{size-8}",
+      "type": "spacing"
     }
   },
   "dark": {
@@ -709,8 +729,24 @@
     }
   },
   "compact": {
-    "rem": {
-      "value": "14",
+    "padding-1": {
+      "value": "{size-0-5}",
+      "type": "spacing"
+    },
+    "padding-2": {
+      "value": "{size-1}",
+      "type": "spacing"
+    },
+    "padding-3": {
+      "value": "{size-2}",
+      "type": "spacing"
+    },
+    "padding-4": {
+      "value": "{size-3}",
+      "type": "spacing"
+    },
+    "padding-5": {
+      "value": "{size-5}",
       "type": "spacing"
     },
     "lineHeights": {
