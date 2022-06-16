@@ -90,143 +90,143 @@
     },
     "rem": {
       "value": "16",
-      "type": "sizing"
+      "type": "spacing"
     },
     "size-0": {
       "value": "0*{rem}",
-      "type": "sizing"
+      "type": "spacing"
     },
     "size-0-5": {
       "value": "0.125*{rem}",
-      "type": "sizing"
+      "type": "spacing"
     },
     "size-1": {
       "value": "0.25*{rem}",
-      "type": "sizing"
+      "type": "spacing"
     },
     "size-1-5": {
       "value": "0.375*{rem}",
-      "type": "sizing"
+      "type": "spacing"
     },
     "size-2": {
       "value": "0.5*{rem}",
-      "type": "sizing"
+      "type": "spacing"
     },
     "size-2-5": {
       "value": "0.625*{rem}",
-      "type": "sizing"
+      "type": "spacing"
     },
     "size-3": {
       "value": "0.75*{rem}",
-      "type": "sizing"
+      "type": "spacing"
     },
     "size-3-5": {
       "value": "0.875*{rem}",
-      "type": "sizing"
+      "type": "spacing"
     },
     "size-4": {
       "value": "1*{rem}",
-      "type": "sizing"
+      "type": "spacing"
     },
     "size-5": {
       "value": "1.25*{rem}",
-      "type": "sizing"
+      "type": "spacing"
     },
     "size-6": {
       "value": "1.5*{rem}",
-      "type": "sizing"
+      "type": "spacing"
     },
     "size-7": {
       "value": "1.75*{rem}",
-      "type": "sizing"
+      "type": "spacing"
     },
     "size-8": {
       "value": "2*{rem}",
-      "type": "sizing"
+      "type": "spacing"
     },
     "size-9": {
       "value": "2.25*{rem}",
-      "type": "sizing"
+      "type": "spacing"
     },
     "size-10": {
       "value": "2.5*{rem}",
-      "type": "sizing"
+      "type": "spacing"
     },
     "size-11": {
       "value": "2.75*{rem}",
-      "type": "sizing"
+      "type": "spacing"
     },
     "size-12": {
       "value": "3*{rem}",
-      "type": "sizing"
+      "type": "spacing"
     },
     "size-14": {
       "value": "3.5*{rem}",
-      "type": "sizing"
+      "type": "spacing"
     },
     "size-16": {
       "value": "4*{rem}",
-      "type": "sizing"
+      "type": "spacing"
     },
     "size-20": {
       "value": "5*{rem}",
-      "type": "sizing"
+      "type": "spacing"
     },
     "size-24": {
       "value": "6*{rem}",
-      "type": "sizing"
+      "type": "spacing"
     },
     "size-28": {
       "value": "7*{rem}",
-      "type": "sizing"
+      "type": "spacing"
     },
     "size-32": {
       "value": "8*{rem}",
-      "type": "sizing"
+      "type": "spacing"
     },
     "size-36": {
       "value": "9*{rem}",
-      "type": "sizing"
+      "type": "spacing"
     },
     "size-40": {
       "value": "10*{rem}",
-      "type": "sizing"
+      "type": "spacing"
     },
     "size-44": {
       "value": "11*{rem}",
-      "type": "sizing"
+      "type": "spacing"
     },
     "size-48": {
       "value": "12*{rem}",
-      "type": "sizing"
+      "type": "spacing"
     },
     "size-52": {
       "value": "13*{rem}",
-      "type": "sizing"
+      "type": "spacing"
     },
     "size-56": {
       "value": "14*{rem}",
-      "type": "sizing"
+      "type": "spacing"
     },
     "size-60": {
       "value": "15*{rem}",
-      "type": "sizing"
+      "type": "spacing"
     },
     "size-64": {
       "value": "16*{rem}",
-      "type": "sizing"
+      "type": "spacing"
     },
     "size-72": {
       "value": "18*{rem}",
-      "type": "sizing"
+      "type": "spacing"
     },
     "size-80": {
       "value": "20*{rem}",
-      "type": "sizing"
+      "type": "spacing"
     },
     "size-96": {
       "value": "24*{rem}",
-      "type": "sizing"
+      "type": "spacing"
     },
     "fontFamilies": {
       "san-francisco-text": {
@@ -711,7 +711,7 @@
   "compact": {
     "rem": {
       "value": "14",
-      "type": "sizing"
+      "type": "spacing"
     },
     "lineHeights": {
       "0": {
