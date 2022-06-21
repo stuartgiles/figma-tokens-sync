@@ -1404,25 +1404,9 @@
       "value": 8,
       "type": "borderRadius",
       "description": "Use for Tooltip"
-    },
-    "border-radius-round": {
-      "value": "999",
-      "type": "borderRadius"
-    },
-    "border-radius-lg": {
-      "value": "{pill32}",
-      "type": "borderRadius"
-    },
-    "border-radius-md": {
-      "value": "{radius4}",
-      "type": "borderRadius"
-    },
-    "border-radius-sm": {
-      "value": "{none}",
-      "type": "borderRadius"
     }
   },
-  "light": {
+  "alias": {
     "Text": {
       "Brand": {
         "value": "{Brand.purpleTelus}",
@@ -1582,8 +1566,24 @@
         "value": "{Brand.white}",
         "type": "color"
       }
+    },
+    "border-radius-round": {
+      "value": "999",
+      "type": "borderRadius"
+    },
+    "border-radius-lg": {
+      "value": "{pill32}",
+      "type": "borderRadius"
+    },
+    "border-radius-md": {
+      "value": "{radius4}",
+      "type": "borderRadius"
+    },
+    "border-radius-sm": {
+      "value": "{none}",
+      "type": "borderRadius"
     }
-  },
+  }
   "compact": {
     "lineHeights": {
       "0": {
