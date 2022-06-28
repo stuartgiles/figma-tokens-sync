@@ -1,1 +1,178 @@
-{}
+{
+  "Text": {
+    "Brand": {
+      "value": "{Brand.purpleTelus}",
+      "type": "color"
+    },
+    "Default": {
+      "value": "{Grey.greyThunder}",
+      "type": "color"
+    },
+    "Neutral": {
+      "value": "{Grey.greyCharcoal}",
+      "type": "color"
+    },
+    "Subtle": {
+      "value": "{Grey.greyShuttle}",
+      "type": "color"
+    },
+    "Inverse": {
+      "value": "{Brand.white}",
+      "type": "color"
+    },
+    "Action": {
+      "value": "{Brand.greenAccessible}",
+      "type": "color"
+    },
+    "Danger": {
+      "value": "{Notification.red}",
+      "type": "color"
+    }
+  },
+  "Background": {
+    " bgLightest": {
+      "value": "{Brand.white}",
+      "type": "color"
+    },
+    "bgLighter": {
+      "value": "{Grey.greyAlabaster}",
+      "type": "color"
+    },
+    "bgLight": {
+      "value": "{Grey.greyAthens}",
+      "type": "color"
+    },
+    "bgDark": {
+      "value": "{Grey.greyShuttle}",
+      "type": "color"
+    },
+    "bgDarker": {
+      "value": "{Grey.greyCharcoal}",
+      "type": "color"
+    },
+    "bgDarkest": {
+      "value": "{Grey.greyThunder}",
+      "type": "color"
+    },
+    "bgBrand": {
+      "value": "{Brand.purpleTelus}",
+      "type": "color"
+    },
+    "bgModal": {
+      "value": "{Background.bgLight}",
+      "type": "color"
+    },
+    "bgCritical": {
+      "value": "{Notification.redDark}",
+      "type": "color"
+    },
+    "bgDanger": {
+      "value": "{Notification.redLight}",
+      "type": "color"
+    },
+    "bgWarning": {
+      "value": "{Notification.amberLight}",
+      "type": "color"
+    },
+    "bgSuccess": {
+      "value": "{Brand.GgreenPanache}",
+      "type": "color"
+    },
+    "bgOffer": {
+      "value": "{Gradient.gradientPurple}",
+      "type": "color"
+    },
+    "bgSocial": {
+      "value": "{Gradient.gradientBrand}",
+      "type": "color"
+    },
+    "bgLightest": {
+      "value": "{Brand.white}",
+      "type": "color"
+    }
+  },
+  "Border": {
+    "borderDark": {
+      "value": "{Grey.greyShuttle}",
+      "type": "color"
+    },
+    "borderDefault": {
+      "value": "{Grey.greyCloud}",
+      "type": "color"
+    },
+    "borderLight": {
+      "value": "{Grey.greyMystic}",
+      "type": "color"
+    },
+    "borderInverse": {
+      "value": "{Brand.white}",
+      "type": "color"
+    },
+    "borderBrand": {
+      "value": "{Brand.purpleTelus}",
+      "type": "color"
+    },
+    "borderDanger": {
+      "value": "{Notification.red}",
+      "type": "color"
+    },
+    "borderWarning": {
+      "value": "{Notification.amber}",
+      "type": "color"
+    },
+    "borderSuccess": {
+      "value": "{Brand.greenAccessible}",
+      "type": "color"
+    },
+    "borderOffer": {
+      "value": "{Gradient.gradientPurple}",
+      "type": "color"
+    }
+  },
+  "Icon": {
+    "iconBrand": {
+      "value": "{Brand.purpleTelus}",
+      "type": "color"
+    },
+    "iconNeutral": {
+      "value": "{Grey.greyCharcoal}",
+      "type": "color"
+    },
+    "iconSubtle": {
+      "value": "{Grey.greyShuttle}",
+      "type": "color"
+    },
+    "iconDanger": {
+      "value": "{Notification.redDark}",
+      "type": "color"
+    },
+    "iconWarning": {
+      "value": "{Notification.amberDark}",
+      "type": "color"
+    },
+    "iconSuccess": {
+      "value": "{Brand.greenAccessible}",
+      "type": "color"
+    },
+    "iconInverse": {
+      "value": "{Brand.white}",
+      "type": "color"
+    }
+  },
+  "border-radius-round": {
+    "value": "999",
+    "type": "borderRadius"
+  },
+  "border-radius-lg": {
+    "value": "{pill32}",
+    "type": "borderRadius"
+  },
+  "border-radius-md": {
+    "value": "{radius4}",
+    "type": "borderRadius"
+  },
+  "border-radius-sm": {
+    "value": "{none}",
+    "type": "borderRadius"
+  }
+}
