@@ -1,0 +1,13 @@
+[
+  {
+    "id": "b042554d6c4f6f2df5292076667582e6cc6b90d3",
+    "name": "prism",
+    "selectedTokenSets": {
+      "prism-brand": "enabled",
+      "prism-alias": "enabled",
+      "prism-dark": "disabled",
+      "prism-compact": "disabled"
+    },
+    "$figmaStyleReferences": {}
+  }
+]
