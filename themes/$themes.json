@@ -6,7 +6,26 @@
       "prism-brand": "enabled",
       "prism-alias": "enabled",
       "prism-dark": "disabled",
-      "prism-compact": "disabled"
+      "prism-compact": "disabled",
+      "allium-brand": "disabled",
+      "allium-alias": "disabled",
+      "allium-compact": "disabled",
+      "allium-dark": "disabled"
+    },
+    "$figmaStyleReferences": {}
+  },
+  {
+    "id": "5519cf48084745dd29d93d7437e88daef50eb221",
+    "name": "allium",
+    "selectedTokenSets": {
+      "prism-brand": "disabled",
+      "prism-alias": "disabled",
+      "prism-dark": "disabled",
+      "prism-compact": "disabled",
+      "allium-brand": "enabled",
+      "allium-alias": "enabled",
+      "allium-compact": "disabled",
+      "allium-dark": "disabled"
     },
     "$figmaStyleReferences": {}
   }
