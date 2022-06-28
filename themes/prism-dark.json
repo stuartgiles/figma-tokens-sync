@@ -1,0 +1,58 @@
+{
+  "text": {
+    "default": {
+      "value": "{greys.antiFlash}",
+      "type": "color"
+    },
+    "emphasis": {
+      "value": "{greys.white}",
+      "type": "color"
+    },
+    "muted": {
+      "value": "{greys.platinum}",
+      "type": "color"
+    }
+  },
+  "textInverted": {
+    "default": {
+      "value": "{greys.charcoal}",
+      "type": "color"
+    },
+    "emphasis": {
+      "value": "{greys.eerie}",
+      "type": "color"
+    },
+    "muted": {
+      "value": "{greys.granite}",
+      "type": "color"
+    }
+  },
+  "fill": {
+    "default": {
+      "value": "{greys.charcoal}",
+      "type": "color"
+    },
+    "emphasis": {
+      "value": "{greys.eerie}",
+      "type": "color"
+    },
+    "muted": {
+      "value": "{greys.granite}",
+      "type": "color"
+    }
+  },
+  "fillInverted": {
+    "default": {
+      "value": "{greys.antiFlash}",
+      "type": "color"
+    },
+    "emphasis": {
+      "value": "{greys.white}",
+      "type": "color"
+    },
+    "muted": {
+      "value": "{greys.platinum}",
+      "type": "color"
+    }
+  }
+}
